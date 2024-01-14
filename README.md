@@ -37,10 +37,8 @@ Feature engineering involved creating new columns such as Total sales, categoriz
 ### Answering Business Questions
 Critical business questions related to electronic store operations are addressed. Insights into product performance, sales trends, and customer preferences are extracted to inform strategic decisions.
 
-#### Screenshots
-![Insights Sales](./screenshots/monthly sales.png)
-#### Screenshots
-![Changes in sales](./screenshots/changes of montly sales over time.png)
+![monthly sales](./screenshots/monthly sales.png)
+![changes of montly sales over time](./screenshots/changes of montly sales over time.png)
 
 
 ## PowerBi Deployment
