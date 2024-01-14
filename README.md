@@ -45,6 +45,7 @@ Critical business questions related to electronic store operations are addressed
 
 ## PowerBi Deployment
 Insights derived from the analysis are translated into an impactful PowerBI dashboard. The PowerBI deployment section guides users on accessing the dashboard, visualizing key metrics, and gaining a deeper understanding of the electronic store's performance.
+![Powerbi](./screenshots/Powerbi.png)
 
 
 ## Conclusion
